@@ -1,0 +1,24 @@
+#Privacy Policy
+##Privacy Policy for Hava Durumu App
+###1. Information Collected
+Location Data: The app uses your device's location to provide weather forecasts.
+User Data: The app stores city information and in-app preferences provided by the user.
+Device Information: The app may collect technical information such as device type, operating system, and app version.
+###2. Use of Information
+Service Provision: Collected information is used to provide weather forecasts and enhance app functionality.
+Development: Anonymous data is analyzed to improve user experience and app performance.
+###3. Information Sharing
+Third-Party Services: The app may use third-party API services to provide weather data. These services only receive necessary information and are subject to their privacy policies.
+Legal Requirements: User information may be shared with relevant authorities if legally required.
+###4. Security
+Data Security: User data is protected with security measures against unauthorized access.
+###5. User Rights
+Data Access and Update: Users can request access to and update their personal data.
+Data Deletion: Users can request the deletion of their personal data.
+###6. Contact
+Questions and Requests: For questions or requests regarding the privacy policy, you can contact us.
+Contact Information:
+Email: velikarpuz1@gmail.com
+Privacy Policy Updates
+This privacy policy may be updated from time to time. Updates will be posted on this page.
+Last Updated: June 12, 2024
